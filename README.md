@@ -27,6 +27,11 @@ I am a passionate **Computer Systems Engineering student** at the Universidad Ab
 
 <p align="left">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=facutateo&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+  <img 
+    src="https://github-readme-stats-git-masterrstp2011-at-gmailcom.vercel.app/api/top-langs/?username=facutateo&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages" 
+    height="165" 
+  />
 </p>
 
 ---
