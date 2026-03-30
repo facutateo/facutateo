@@ -25,22 +25,36 @@ I am a passionate **Computer Systems Engineering student** at the Universidad Ab
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=facutateo&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
-  <img 
-    src="https://github-readme-stats-git-masterrstp2011-at-gmailcom.vercel.app/api/top-langs/?username=facutateo&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages" 
-    height="165" 
-  />
+<p align="center">
+  <table align="center" border="0">
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=facutateo&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+        </a>
+      </td>
+      <td align="center" valign="top">
+        <img 
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=facutateo&layout=compact&hide_border=true&card_width=400&title_color=006AFF&icon_color=61DAFB&text_color=ffffff&bg_color=00000000&count_private=true&langs_count=6" 
+          alt="Facundo's Top Languages" 
+        />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/facundo-tateossian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facundo-tateossian" height="30" width="40" /></a>
-<a href="https://github.com/facutateo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="facutateo" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/facundo-tateossian/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/facutateo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
