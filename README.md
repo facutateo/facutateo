@@ -22,7 +22,7 @@ I am a passionate **Computer Systems Engineering student** at the Universidad Ab
 
 <p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=facutateo&show_icons=true&theme=tokyonight" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facutateo&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=facutateo&theme=tokyonight" width="100%" />
 </p>
 
 ---
