@@ -30,7 +30,7 @@ I am a passionate **Computer Systems Engineering student** at the Universidad Ab
     <tr>
       <td align="center" valign="top">
         <a href="https://git.io/streak-stats">
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=facutateo&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=facutateo&theme=transparent&hide_border=true&background=00000000" alt="GitHub Streak" />
         </a>
       </td>
       <td align="center" valign="top">
