@@ -9,9 +9,8 @@ I am a passionate **Computer Systems Engineering student** at the Universidad Ab
 ## 🚀 Technical Skills
 
 ### 💻 Frontend Development
-* **Languages:** HTML5, CSS3, JavaScript (ES6+)
+* **Languages:** HTML, CSS, JavaScript, TypeScript, TailwindCSS
 * **Frameworks/Libraries:** React.js (Focusing on building scalable SPAs)
-* **Styling:** Responsive Design, CSS Frameworks
 
 ### 🛠️ Tools & Environment
 * **Version Control:** Git & GitHub
@@ -22,7 +21,7 @@ I am a passionate **Computer Systems Engineering student** at the Universidad Ab
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=facutateo&show_icons=true&theme=tokyonight" alt="Facundo's Stats" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=facutateo&show_icons=true&theme=tokyonight" alt="Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facutateo&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 
